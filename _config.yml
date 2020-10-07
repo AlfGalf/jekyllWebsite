@@ -52,3 +52,4 @@ header_pages:
  - index.md
  - photos.md
 
+exclude: [Gemfile, Gemfile.lock, .gitignore, .git]
