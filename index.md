@@ -16,7 +16,7 @@ I love Computer Science and Mathematics. I'm especially intersted in language de
 systems, systems programming, compilers, and Unix.
 
 I have experiance with C#, Java, Swift, Python, and C. Additionally, have worked with Rust, 
-JavaScript, HTML, CSS, C++, Ruby, Matlab. I've spent time developing on iOS, Android, macOS, 
+JavaScript, HTML, CSS, C++, Ruby, PostgreSQL, Matlab. I've spent time developing on iOS, Android, macOS, 
 ASP.NET, Processing, React js, node.js.
 
 What do you do?
