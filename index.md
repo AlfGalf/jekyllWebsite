@@ -42,7 +42,7 @@ science department. It aims to teach some fundamental Technical Computer Science
 details can be found [here](https://bath-bcss.github.io/Technical-Labs/) and the videos can be found 
 [here](https://www.youtube.com/playlist?list=PLT4sucrjsqF8kvZFcRvxfhWuTvjKrXYzE).
 
-### [PlatformPanic](website.platformpanic.online)
+### [PlatformPanic](http://website.platformpanic.online)
 
 I was part of a four person team who built PlatformPanic for OxfordHack2020, is 
 is a multiplayer platformer.
