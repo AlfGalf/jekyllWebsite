@@ -30,13 +30,15 @@ jobs:
         uses: lemonarc/jekyll-action@1.0.0
       
       - name: SCP to server
-        uses: cross-the-world/scp-pipeline@v1.2.1
+        uses: appleboy/scp-action@v0.0.1
         with:
           host: ${{ secrets.SSH_HOST }}
-          user: ${{ secrets.SSH_USER }}
+          username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PASS_KEY }}
-          pass: ${{ secrets.SSH_PASSKEY }}
-          scp: _site/ => "/var/www/alfierichards.com/_site/" 
+          passphrase: ${{ secrets.SSH_PASSKEY }}
+          rm: true
+          source: _site/
+          target: /var/www/alfierichards.com/_site/
 
 
       
