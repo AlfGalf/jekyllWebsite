@@ -44,7 +44,6 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PUB_KEY }}
           passphrase: ${{ secrets.SSH_PASSKEY }}
-          rm: true
           source: _site/
           target: /var/www/alfierichards.com/
 
