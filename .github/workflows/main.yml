@@ -42,7 +42,7 @@ jobs:
         with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_PASS_PUB }}
+          key: ${{ secrets.SSH_PUB_KEY }}
           passphrase: ${{ secrets.SSH_PASSKEY }}
           rm: true
           source: _site/
