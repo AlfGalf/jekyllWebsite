@@ -36,7 +36,7 @@ jobs:
           user: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PASS_KEY }}
           pass: ${{ secrets.SSH_PASSKEY }}
-          scp: ${{ /_site => /var/www/alfierichards.com/_site/ }}
+          scp: _site/ => "/var/www/alfierichards.com/_site/" 
 
 
       
