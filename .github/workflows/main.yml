@@ -46,7 +46,7 @@ jobs:
           passphrase: ${{ secrets.SSH_PASSKEY }}
           rm: true
           source: _site/
-          target: /var/www/alfierichards.com/_site/
+          target: /var/www/alfierichards.com/
 
 
       
