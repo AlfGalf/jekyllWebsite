@@ -35,7 +35,7 @@ reguarding Academic reps contact me [here](mailto:ar2227@bath.ac.uk).
 Projects:
 ---------
 
-### [Technical Labs](https://bath-bcss.github.io/Technical-Labs/)
+### [Technical Labs](https://www.technical-labs.link/)
 
 I am writing and recording a video series called Technical Labs for BCSS and the bath computer 
 science department. It aims to teach some fundamental Technical Computer Science skills. More 
