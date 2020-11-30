@@ -3,9 +3,11 @@ title: "About me"
 layout: page
 permalink: /
 ---
+<title>About Me</title>
 
 I'm a [student](https://people.bath.ac.uk/ar2227/) at the [University of 
-Bath](https://www.bath.ac.uk) studying for a BSc (Hons) Computer Science and Mathematics.
+Bath](https://www.bath.ac.uk) studying for a BSc (Hons) Computer Science and 
+Mathematics.
 
 I use the pronouns he/him.
 
