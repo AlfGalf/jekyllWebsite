@@ -14,12 +14,13 @@ I use the pronouns he/him.
 What do you like?
 -----------------
 
-I love Computer Science and Mathematics. I'm especially intersted in language design, operating 
-systems, systems programming, compilers, and Unix.
+I love Computer Science and Mathematics. I'm especially intersted in language 
+design, operating systems, systems programming, compilers, LLVM, and Unix.
 
-I have experiance with C#, Java, Swift, Python, and C. Additionally, have worked with Rust, 
-JavaScript, HTML, CSS, C++, Ruby, PostgreSQL, Matlab. I've spent time developing on iOS, Android, macOS, 
-ASP.NET, Processing, React js, node.js.
+I have experiance with C#, Java, Swift, Python, Rust, and C. Additionally, have 
+worked with Rust, JavaScript, HTML, CSS, C++, Ruby, PostgreSQL, Matlab. I've 
+spent time developing on iOS, Android, macOS, ASP.NET, Processing, ReactJS, 
+node.js, and Typescript.
 
 What do you do?
 ---------------
@@ -44,7 +45,7 @@ science department. It aims to teach some fundamental Technical Computer Science
 details can be found [here](https://bath-bcss.github.io/Technical-Labs/) and the videos can be found 
 [here](https://www.youtube.com/playlist?list=PLT4sucrjsqF8kvZFcRvxfhWuTvjKrXYzE).
 
-### [PlatformPanic](http://website.platformpanic.online)
+### PlatformPanic
 
 I was part of a four person team who built PlatformPanic for OxfordHack2020, is 
 is a multiplayer platformer.
@@ -54,7 +55,13 @@ is a multiplayer platformer.
 A simple webapp to assign roles to players in the game popular game Mafia (sometimes called 
 Warewolves). 
 
-Contact me
-==========
+### More projects
 
-To contact me email [alfierchrds@gmail.com](mailto:alfierchrds@gmail.com).
+I have worked on other projects, however without the time to maintain them I am 
+not currently hosting them anywhere or they are private.
+
+Contact me
+----------
+
+To contact me email [main@alfierichards.com](mailto:main.alfierichards.com).
+
