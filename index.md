@@ -14,7 +14,6 @@ I use the pronouns he/him.
 What do you like?
 -----------------
 
-<<<<<<< HEAD
 I love Computer Science and Mathematics. I'm especially intersted in language 
 design, operating systems, systems programming, compilers, LLVM, and Unix.
 
