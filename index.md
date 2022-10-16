@@ -6,7 +6,7 @@ permalink: /
 <title>About Me</title>
 
 My name is Alfie Richards (he/him). I'm a student at the University of Bath 
-studying for a BSc (Hons) Computer Science and Mathematics.
+studying for an MComp in Computer Science and Mathematics.
 
 What do you like?
 -----------------
@@ -26,8 +26,9 @@ What do you do?
 Most of my Computer science projects done in my free time can be found 
 [here](https://github.com/AlfGalf?tab=repositories). 
 
-I'm an Academic representative for 3nd year MComp Computer Science and Maths 
-Students. For anything regarding Academic reps contact me 
+I'm an Academic representative for 4th year MComp Computer Science and Maths 
+Students at the University of Bath and a tutor for the Data Structures and 
+Algorithms module. For anything regarding these contact me 
 [here](mailto:ar2227@bath.ac.uk).
 
 Projects:
@@ -41,12 +42,12 @@ computer science skills. More details can be found
 [here](https://bath-bcss.github.io/Technical-Labs/) and the videos can be found 
 [here](https://www.youtube.com/playlist?list=PLT4sucrjsqF8kvZFcRvxfhWuTvjKrXYzE).
 
-### [Mafia](https://mafia.alfierichards.com)
+### Mafia
 
 A simple web application to assign roles to players in the game popular game 
-Mafia (sometimes called Warewolves). 
+Mafia (sometimes called Werewolf). 
 
-### [Set Card Game](https://setcardgame.onrender.com)
+### Set Card Game
 
 A web application for the game set.
 
