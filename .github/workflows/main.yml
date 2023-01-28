@@ -26,8 +26,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
     
-      - name: Build
-        uses: jerryjvl/jekyll-build-action@v1
+      - name: Jekyll Build
+        uses: lemonarc/jekyll-action@1.0.0
       
       - name: SCP to server
         uses: appleboy/scp-action@8a54b394594637844fcf9ec5cab3eb97ce5dedae
