@@ -6,3 +6,5 @@ gem "jekyll"
 gem "kramdown-parser-gfm"
 
 gem "webrick", "~> 1.7"
+gem "jekyll-sass-converter", "~> 2.0"
+
