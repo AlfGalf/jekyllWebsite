@@ -2,8 +2,8 @@ title: Alfie Richards
 author:
   name: Alfie Richards
   email: main@alfierichards.com
-description: > 
-    This is my website to present information about myself and to host my things.
+description: >
+    This is my website to present information about myself and to host my out of date CV.
     It will mostly be used as somewhere to point people on my social medias and on my CV.
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -15,39 +15,18 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
     github:  AlfGalf
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
     instagram: alfiejjrichards
     linkedin: alfie-richards2
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
 
     # Mastodon instances
     mastodon:
     - username: alfier
       instance: mstdn.social
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
- - photos.md
 
 exclude: [Gemfile, Gemfile.lock, .gitignore, .git]

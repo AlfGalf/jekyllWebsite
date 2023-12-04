@@ -3,61 +3,46 @@ title: "About me"
 layout: page
 permalink: /
 ---
-<title>About Me</title>
+<title>About</title>
 
-My name is Alfie Richards (he/him). I'm a student at the University of Bath 
-studying for an MComp in Computer Science and Mathematics.
+I am a Graduate Engineer at Arm, I previously achieved an MSc in Computer Science
+and Mathematics from the University of Bath.
 
-What do you like?
+Interests
 -----------------
 
-I love Computer Science and Mathematics. I'm especially interested in language 
-design, operating systems, systems programming, compilers, functional 
-programming, and LLVM.
+I'm especially interested in compilers, language
+design, functional programming, proof assistants, and category theory.
 
-I have experience with C#, Rust, Python, Swift, Haskell, C amongst others.
-
-I am looking for opportunities in language design and tooling, especially 
-compilation, and platform development.
-
-What do you do?
----------------
-
-Most of my Computer science projects done in my free time can be found 
-[here](https://github.com/AlfGalf?tab=repositories). 
-
-I'm an Academic representative for 4th year MComp Computer Science and Maths 
-Students at the University of Bath and a tutor for the Data Structures and 
-Algorithms module. For anything regarding these contact me 
-[here](mailto:ar2227@bath.ac.uk).
+I have experience with Rust, Python, Swift, Haskell, C amongst others.
+I've worked as a web developer, compiler engineer, and app developer.
+I've studies mostly logic and semantics of programming languages and
+formal proofs.
 
 Projects:
 ---------
 
-### [Technical Labs](https://www.technical-labs.link/)
+### [Technical Labs](https://www.technical-labs.link/notes/2020/)
 
-I am writing and recording a video series called Technical Labs for BCSS and the 
-Bath computer science department. It aims to teach some fundamental technical 
-computer science skills. More details can be found 
-[here](https://bath-bcss.github.io/Technical-Labs/) and the videos can be found 
+In 2020 as a student Joe Cryer and I wrote and published an educational series
+of sessions and notes called Technical Labs. This was for BCSS and the
+University of Bath computer science department. It aims to teach some
+fundamental technical computer science skills. More details can be found
+[here](https://bath-bcss.github.io/Technical-Labs/2020/) and the videos can be found
 [here](https://www.youtube.com/playlist?list=PLT4sucrjsqF8kvZFcRvxfhWuTvjKrXYzE).
 
-### Mafia
+### [Incorectness Logic in Lean](https://github.com/AlfGalf/Incorrectness_Logic)
 
-A simple web application to assign roles to players in the game popular game 
-Mafia (sometimes called Werewolf). 
-
-### Set Card Game
-
-A web application for the game set.
+For my masters dissertation I formalised the Incorectness Logic results initiated by
+O'Hearne. I used the lean theorem prover and managed to prove the soundness and completeness
+results. This work was done with my supervisor [Guy McCusker](https://people.bath.ac.uk/gam23/) who
+I remain extremely grateful for.
 
 ### More projects
 
-I have worked on Lambda calculus reducers, compilers, interpreters, and other 
-work as part of my degree. They are not available publicly as I cannot publish 
-coursework solutions.
+For my degree I have worked on Lambda calculus reducers, compilers, interpreters, and more.
+They are not available publicly as I don't publish
+coursework solutions for obvious reasons.
 
-Contact me
-----------
-
-To contact me email [main@alfierichards.com](mailto:main.alfierichards.com).
+A small list of other dubious quality and unmaintained projects can be found here
+[here](https://github.com/AlfGalf?tab=repositories).
